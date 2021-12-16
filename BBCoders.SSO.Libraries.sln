@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BBCoders.SSO.Core", "BBCoders.SSO.Core\BBCoders.SSO.Core.csproj", "{BC67300C-46F5-4AEB-AA24-8F9BF73085FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BBCoders.SSO.Storage", "BBCoders.SSO.Storage\BBCoders.SSO.Storage.csproj", "{6954EC54-4F9A-4332-9B5D-D3F6ABCB5A74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BBCoders.SSO.ApiModels", "BBCoders.SSO.ApiModels\BBCoders.SSO.ApiModels.csproj", "{68F88CED-C1D6-4FF5-A87A-60F5E3FF0913}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BBCoders.SSO.Api", "BBCoders.SSO.Api\BBCoders.SSO.Api.csproj", "{98DD66CF-10E6-4881-851E-BD10A1C36868}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC67300C-46F5-4AEB-AA24-8F9BF73085FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC67300C-46F5-4AEB-AA24-8F9BF73085FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC67300C-46F5-4AEB-AA24-8F9BF73085FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC67300C-46F5-4AEB-AA24-8F9BF73085FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6954EC54-4F9A-4332-9B5D-D3F6ABCB5A74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6954EC54-4F9A-4332-9B5D-D3F6ABCB5A74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6954EC54-4F9A-4332-9B5D-D3F6ABCB5A74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6954EC54-4F9A-4332-9B5D-D3F6ABCB5A74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68F88CED-C1D6-4FF5-A87A-60F5E3FF0913}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68F88CED-C1D6-4FF5-A87A-60F5E3FF0913}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68F88CED-C1D6-4FF5-A87A-60F5E3FF0913}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68F88CED-C1D6-4FF5-A87A-60F5E3FF0913}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98DD66CF-10E6-4881-851E-BD10A1C36868}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98DD66CF-10E6-4881-851E-BD10A1C36868}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98DD66CF-10E6-4881-851E-BD10A1C36868}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98DD66CF-10E6-4881-851E-BD10A1C36868}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
